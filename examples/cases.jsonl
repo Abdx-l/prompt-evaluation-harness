@@ -1,0 +1,3 @@
+{"id":"greeting","input":"Say hello","checks":[{"type":"contains","value":"hello"},{"type":"max_words","value":10}]}
+{"id":"json","input":"Return a status object","checks":[{"type":"json_keys","value":["status"]}]}
+
